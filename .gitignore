@@ -1,0 +1,7 @@
+# Ignorar AYED (Eclipse)
+2°Año/Algoritmos y Estructuras de Datos (AYED)/
+
+# .NET (ignorar basura)
+**/bin/
+**/obj/
+.vs/
